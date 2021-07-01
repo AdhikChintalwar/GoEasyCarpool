@@ -24,6 +24,7 @@
     "react-native": "0.64.2",
     "react-native-bottomsheet-reanimated": "^0.0.39",
     "react-native-date-picker": "^3.3.1",
+    "react-native-elements": "^3.4.2",
     "react-native-firebase": "^5.6.0",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-google-places-api": "^1.0.2",
